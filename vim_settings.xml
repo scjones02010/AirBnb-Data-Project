@@ -23,7 +23,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587227195444">
+      <file name="/Dummy.txt" timestamp="1587291451597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1587182976203">
@@ -31,6 +31,12 @@
       </file>
       <file name="/R Console" timestamp="1582979308058">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/AirBnb-Data-Project/Data Cleaning.py" timestamp="1587291686272">
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="53" />
+        <mark key="^" line="10" column="73" />
+        <mark key="." line="51" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/AirBnb-Data-Project/Hello World.py" timestamp="1583881000260">
         <mark key="[" line="0" column="0" />
@@ -48,10 +54,10 @@
         <text encoding="base64">cmlvX2RmPXJpb19kZltbY29sIGZvciBjb2wgaW4gdG90YWxfY29sdW1ucyBpZiBjb2wgbm90IGluIGNvbHVtbnNfZm9yX2RlbGV0aW9uXV0KcHJpbnQocmlvX2RmLnNoYXBlKQoKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>(</text>
       </register>
     </registers>
   </component>
